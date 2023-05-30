@@ -1,0 +1,52 @@
+body2 {
+
+  background-size: 40px 40px;
+  background-image:
+    linear-gradient(to right, grey 1px, transparent 1px),
+    linear-gradient(to bottom, grey 1px, transparent 1px);
+}
+
+h1 {
+	color: red;
+}
+
+.rectangle {
+	height: 193px;
+	width: 385px;
+	background-size: 32px 32px;
+    background-image:
+    linear-gradient(to right, black 1px, transparent 1px),
+    linear-gradient(to bottom, black 1px, transparent 1px);
+}
+
+.series1 {
+	position: absolute;
+	font-size: 20px;
+	background-color: white;
+	top: 296px;
+}
+
+.number {
+	position: absolute;
+	font-size: 20px;
+	background-color: white;
+	left: 20px;
+}
+
+.greater {
+	height: 15px;
+	width: 15px;
+	background-color: green;
+	border-radius: 50%;
+	position: absolute;
+	
+}
+
+.lesser {
+	height: 12px;
+	width: 12px;
+	background-color: orange;
+	border-radius: 50%;
+	position: absolute;
+	
+}
